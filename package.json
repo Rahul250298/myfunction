@@ -1,0 +1,15 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "llhttp": "^1.0.1",
+    "openssl": "^2.0.0",
+    "pako": "^2.0.4"
+  }
+}
